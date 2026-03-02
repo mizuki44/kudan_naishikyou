@@ -2630,9 +2630,9 @@ a.no_link {
     background-color: #f3efec;
 }
 
-.results_table table td:last-child {
+/* .results_table table td:last-child {
     text-align: center;
-}
+} */
 
 .table_time .table_time_th {
     border: 2px solid #dbdddc;
