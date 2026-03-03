@@ -7960,7 +7960,7 @@ a.no_link {
 }
 
 body.section .title-head {
-    background-image: url(../../section/img/title-head-section.jpg);
+    background-image: url(../../common/img/title-head-section.jpg);
 }
 
 body.section .inner {
@@ -11911,7 +11911,7 @@ body.naika img.popup {
 }
 
 .column .title-head {
-    background-image: url(../../column/img/title-head-column.jpg);
+    background-image: url(../../common/img/title-head-section.jpg);
 }
 
 .column .inner {
@@ -12301,7 +12301,7 @@ body.naika img.popup {
 
 @media screen and (min-width: 769px) {
     .column .title-head {
-        background-image: url(../../column/img/title-head-column.jpg);
+        background-image: url(../../common/img/title-head-section.jpg);
     }
 
     .column .side_nav .localNavi li {
